@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hiii-dev2
+=======
+hiii-dev1
+>>>>>>> origin/master
